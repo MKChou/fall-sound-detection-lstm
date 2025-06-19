@@ -1,0 +1,7 @@
+numpy
+librosa
+tensorflow
+matplotlib
+scikit-learn
+tf2onnx
+onnx 
